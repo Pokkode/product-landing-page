@@ -6,3 +6,9 @@ A page designed to promote a business/product
 
 To build an app that is functionally similar to https://product-landing-page.freecodecamp.rocks
 
+# Tech Stack
+
+**Client:** HTML, CSS
+
+**Server:** Github
+
