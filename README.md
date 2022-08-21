@@ -20,3 +20,7 @@ To build an app that is functionally similar to https://product-landing-page.fre
 
 https://pokkode.github.io/product-landing-page/
 
+## Authors
+
+- [@Princewill Kalu Orie](https://www.github.com/pokkode)
+
