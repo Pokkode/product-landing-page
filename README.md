@@ -24,3 +24,7 @@ https://pokkode.github.io/product-landing-page/
 
 - [@Princewill Kalu Orie](https://www.github.com/pokkode)
 
+## Features
+
+- mobile responsive
+
