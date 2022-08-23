@@ -28,3 +28,7 @@ https://pokkode.github.io/product-landing-page/
 
 - mobile responsive
 
+## Skills
+
+HTML, CSS
+
